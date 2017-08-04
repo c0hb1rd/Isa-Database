@@ -1,6 +1,9 @@
 # Isa-Database
 Python 实现的轻量型数据库
 
+## Version
+0.3
+
 ## 包含的模块
 * 数据库加载
 * 数据库保存
